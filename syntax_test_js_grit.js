@@ -1,4 +1,4 @@
-// SYNTAX TEST "Packages/User/JavaScript-grit.sublime-syntax"
+// SYNTAX TEST "Packages/JavaScriptPlusGritSyntax/JavaScript-grit.sublime-syntax"
 // <- source.js.grit
 
 // Disabled block:
